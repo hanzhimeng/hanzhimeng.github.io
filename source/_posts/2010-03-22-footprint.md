@@ -1,6 +1,6 @@
 ---
 title: Use your hand
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/03/footprint/
 tumblr_allenhan_permalink:

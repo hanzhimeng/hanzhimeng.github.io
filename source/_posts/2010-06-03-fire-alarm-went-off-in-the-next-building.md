@@ -1,6 +1,6 @@
 ---
 title: Fire alarm
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/06/fire-alarm-went-off-in-the-next-building/
 tumblr_allenhan_permalink:

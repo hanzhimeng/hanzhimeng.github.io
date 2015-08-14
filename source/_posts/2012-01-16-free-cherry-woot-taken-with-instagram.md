@@ -1,6 +1,6 @@
 ---
 title: cherry
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2012/01/free-cherry-woot-taken-with-instagram/
 tumblr_allenhan_permalink:

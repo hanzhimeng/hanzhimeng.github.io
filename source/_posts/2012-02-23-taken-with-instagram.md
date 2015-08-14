@@ -1,6 +1,6 @@
 ---
 title: ❤
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2012/02/taken-with-instagram/
 tumblr_allenhan_permalink:

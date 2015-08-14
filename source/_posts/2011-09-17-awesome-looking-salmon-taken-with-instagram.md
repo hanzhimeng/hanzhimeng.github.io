@@ -1,6 +1,6 @@
 ---
 title: Salmon
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2011/09/awesome-looking-salmon-taken-with-instagram/
 tumblr_allenhan_permalink:

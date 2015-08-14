@@ -1,6 +1,6 @@
 ---
 title: G block
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/12/living-studying/
 tumblr_allenhan_permalink:

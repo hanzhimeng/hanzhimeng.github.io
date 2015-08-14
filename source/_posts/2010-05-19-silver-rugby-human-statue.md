@@ -1,6 +1,6 @@
 ---
 title: Human statue
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/05/silver-rugby-human-statue/
 tumblr_allenhan_permalink:

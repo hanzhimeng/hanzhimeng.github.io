@@ -1,6 +1,6 @@
 ---
 title: Nice chopper
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/05/nice-chopper/
 tumblr_allenhan_permalink:

@@ -1,6 +1,6 @@
 ---
 title: First time over 81 wpm
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2013/05/first-time-over-81-wpm/
 categories:

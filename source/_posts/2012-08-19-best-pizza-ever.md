@@ -1,6 +1,6 @@
 ---
 title: Best pizza ever!
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2012/08/best-pizza-ever/
 tumblr_allenhan_permalink:

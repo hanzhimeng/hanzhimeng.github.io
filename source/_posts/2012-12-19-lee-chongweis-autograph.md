@@ -1,6 +1,6 @@
 ---
 title: Lee Chongwei’s autograph
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2012/12/lee-chongweis-autograph/
 tumblr_allenhan_permalink:

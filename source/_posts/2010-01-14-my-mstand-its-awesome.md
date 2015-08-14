@@ -1,6 +1,6 @@
 ---
 title: mStand
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/01/my-mstand-its-awesome/
 tumblr_allenhan_permalink:

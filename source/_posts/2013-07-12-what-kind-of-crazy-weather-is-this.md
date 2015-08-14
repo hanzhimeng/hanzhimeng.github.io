@@ -1,6 +1,6 @@
 ---
 title: What kind of crazy weather is this?
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2013/07/what-kind-of-crazy-weather-is-this/
 categories:

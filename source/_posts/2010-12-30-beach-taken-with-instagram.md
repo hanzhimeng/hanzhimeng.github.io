@@ -1,6 +1,6 @@
 ---
 title: Waihi
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/12/beach-taken-with-instagram/
 tumblr_allenhan_permalink:

@@ -1,6 +1,6 @@
 ---
 title: Wine
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2011/12/taken-with-instagram-2/
 tumblr_allenhan_permalink:

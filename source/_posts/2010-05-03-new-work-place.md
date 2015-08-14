@@ -1,6 +1,6 @@
 ---
 title: New work place
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/05/new-work-place/
 tumblr_allenhan_permalink:

@@ -1,6 +1,6 @@
 ---
 title: Breakie
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/10/normal-breakfast-for-a-long-day-hopefully-we-ll/
 tumblr_allenhan_permalink:

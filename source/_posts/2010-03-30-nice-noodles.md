@@ -1,6 +1,6 @@
 ---
 title: Nice noodles
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/03/nice-noodles/
 tumblr_allenhan_permalink:

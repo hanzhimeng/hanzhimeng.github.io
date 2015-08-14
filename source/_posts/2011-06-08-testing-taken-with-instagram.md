@@ -1,6 +1,6 @@
 ---
 title: Sweet home
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2011/06/testing-taken-with-instagram/
 tumblr_allenhan_permalink:

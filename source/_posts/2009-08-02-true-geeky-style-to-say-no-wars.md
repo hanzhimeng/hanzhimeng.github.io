@@ -1,6 +1,6 @@
 ---
 title: Peace
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/08/true-geeky-style-to-say-no-wars/
 tumblr_allenhan_permalink:

@@ -1,6 +1,6 @@
 ---
 title: Google Phone
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/02/nice-nexus-one-is-awesome/
 tumblr_allenhan_permalink:

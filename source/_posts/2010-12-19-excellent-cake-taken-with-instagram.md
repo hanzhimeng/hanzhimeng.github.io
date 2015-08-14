@@ -1,6 +1,6 @@
 ---
 title: Cake
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/12/excellent-cake-taken-with-instagram/
 tumblr_allenhan_permalink:

@@ -1,6 +1,6 @@
 ---
 title: Internation aireport
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/08/hamilton-international-airpot-papers/
 tumblr_allenhan_permalink:

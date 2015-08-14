@@ -1,6 +1,6 @@
 ---
 title: Sf Volt Iphone
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2012/02/sf-volt-iphone/
 tumblr_allenhan_permalink:

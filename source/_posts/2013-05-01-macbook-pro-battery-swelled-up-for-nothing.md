@@ -1,6 +1,6 @@
 ---
 title: Macbook pro battery swelled up for nothing
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2013/05/macbook-pro-battery-swelled-up-for-nothing/
 categories:

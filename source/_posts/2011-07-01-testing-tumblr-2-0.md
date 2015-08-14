@@ -1,6 +1,6 @@
 ---
 title: Robert Harris
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2011/07/testing-tumblr-2-0/
 tumblr_allenhan_permalink:

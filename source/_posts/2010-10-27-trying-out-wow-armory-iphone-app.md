@@ -1,6 +1,6 @@
 ---
 title: Wow Armory
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/10/trying-out-wow-armory-iphone-app/
 tumblr_allenhan_permalink:

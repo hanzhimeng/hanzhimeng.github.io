@@ -1,6 +1,6 @@
 ---
 title: First ticket ever
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/02/no-comment/
 tumblr_allenhan_permalink:

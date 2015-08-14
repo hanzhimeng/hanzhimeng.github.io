@@ -1,6 +1,6 @@
 ---
 title: Home made spicy fish
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2011/03/home-made-spicy-fish/
 tumblr_allenhan_permalink:

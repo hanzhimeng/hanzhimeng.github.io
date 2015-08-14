@@ -1,6 +1,6 @@
 ---
 title: Coca cola limited edition
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2011/03/coca-cola-limited-edition/
 tumblr_allenhan_permalink:

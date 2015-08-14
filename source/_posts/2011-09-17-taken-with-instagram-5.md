@@ -1,6 +1,6 @@
 ---
 title: Grilled chicken on rice
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2011/09/taken-with-instagram-5/
 tumblr_allenhan_permalink:

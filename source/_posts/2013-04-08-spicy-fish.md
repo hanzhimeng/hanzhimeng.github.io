@@ -1,6 +1,6 @@
 ---
 title: spicy fish
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2013/04/spicy-fish/
 categories:

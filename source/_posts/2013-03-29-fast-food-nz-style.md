@@ -1,6 +1,6 @@
 ---
 title: fast food nz style
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2013/03/fast-food-nz-style/
 categories:

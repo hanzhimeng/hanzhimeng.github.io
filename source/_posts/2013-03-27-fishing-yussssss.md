@@ -1,6 +1,6 @@
 ---
 title: Fishing yussssss!
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2013/03/fishing-yussssss/
 categories:

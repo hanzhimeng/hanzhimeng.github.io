@@ -1,6 +1,6 @@
 ---
 title: Birra italiana
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2011/10/birra-italiana/
 tumblr_allenhan_permalink:

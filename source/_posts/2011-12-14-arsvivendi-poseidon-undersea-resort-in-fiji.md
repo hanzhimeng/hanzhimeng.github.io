@@ -1,6 +1,6 @@
 ---
 title: Fancy hotel
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2011/12/arsvivendi-poseidon-undersea-resort-in-fiji/
 tumblr_allenhan_permalink:

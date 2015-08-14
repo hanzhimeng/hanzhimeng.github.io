@@ -1,6 +1,6 @@
 ---
 title: Entrance of a rental truck
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2013/08/entrance-of-a-rental-truck/
 categories:

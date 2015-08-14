@@ -1,6 +1,6 @@
 ---
 title: Big Tree
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/12/christmas-taken-with-instagram/
 tumblr_allenhan_permalink:

@@ -1,6 +1,6 @@
 ---
 title: Lamb burger
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2012/08/lamb-burger-tastes-good-but-its-too-big-that-i/
 tumblr_allenhan_permalink:

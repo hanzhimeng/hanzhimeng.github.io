@@ -1,6 +1,6 @@
 ---
 title: Office pet
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2011/12/office-pet/
 tumblr_allenhan_permalink:

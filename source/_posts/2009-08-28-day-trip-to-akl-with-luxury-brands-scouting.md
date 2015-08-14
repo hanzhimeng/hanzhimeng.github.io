@@ -1,6 +1,6 @@
 ---
 title: Queen St, Auckland
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/08/day-trip-to-akl-with-luxury-brands-scouting/
 tumblr_allenhan_permalink:

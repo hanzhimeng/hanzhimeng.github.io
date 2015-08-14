@@ -1,6 +1,6 @@
 ---
 title: Officially a staff
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/02/stuff-parking-permit-and-stuff-id-at-the/
 tumblr_allenhan_permalink:

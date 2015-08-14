@@ -1,6 +1,6 @@
 ---
 title: Movenpick
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2011/04/yum-taken-with-instagram-at-movenpick/
 tumblr_allenhan_permalink:

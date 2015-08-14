@@ -1,6 +1,6 @@
 ---
 title: NBA All start games
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2012/03/i-got-most-of-them-right/
 tumblr_allenhan_permalink:

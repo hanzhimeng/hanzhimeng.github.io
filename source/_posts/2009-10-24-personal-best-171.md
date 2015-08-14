@@ -1,6 +1,6 @@
 ---
 title: Bowling
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/10/personal-best-171/
 tumblr_allenhan_permalink:

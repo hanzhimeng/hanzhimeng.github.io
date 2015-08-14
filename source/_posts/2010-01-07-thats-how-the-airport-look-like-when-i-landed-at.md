@@ -1,6 +1,6 @@
 ---
 title: Snowing
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/01/thats-how-the-airport-look-like-when-i-landed-at/
 tumblr_allenhan_permalink:

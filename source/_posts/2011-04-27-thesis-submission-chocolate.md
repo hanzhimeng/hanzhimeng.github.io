@@ -1,6 +1,6 @@
 ---
 title: Done!
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2011/04/thesis-submission-chocolate/
 tumblr_allenhan_permalink:

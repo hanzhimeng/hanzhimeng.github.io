@@ -1,6 +1,6 @@
 ---
 title: Life of a Uni tutor
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/11/another-day-of-exam-marking-coming/
 tumblr_allenhan_permalink:

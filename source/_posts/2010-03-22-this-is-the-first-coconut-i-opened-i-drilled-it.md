@@ -1,6 +1,6 @@
 ---
 title: Coconut
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/03/this-is-the-first-coconut-i-opened-i-drilled-it/
 tumblr_allenhan_permalink:

@@ -1,6 +1,6 @@
 ---
 title: Big buildings
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/08/and-i-saw-this-the-new-bnz-and-deloitte-building/
 tumblr_allenhan_permalink:

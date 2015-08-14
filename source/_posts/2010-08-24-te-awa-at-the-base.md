@@ -1,6 +1,6 @@
 ---
 title: Te awa
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/08/te-awa-at-the-base/
 tumblr_allenhan_permalink:

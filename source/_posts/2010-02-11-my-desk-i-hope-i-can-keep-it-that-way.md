@@ -1,6 +1,6 @@
 ---
 title: Tidy
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/02/my-desk-i-hope-i-can-keep-it-that-way/
 tumblr_allenhan_permalink:

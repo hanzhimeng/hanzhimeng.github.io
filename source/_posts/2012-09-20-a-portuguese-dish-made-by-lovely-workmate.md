@@ -1,5 +1,5 @@
 ---
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2012/09/a-portuguese-dish-made-by-lovely-workmate/
 tumblr_allenhan_permalink:

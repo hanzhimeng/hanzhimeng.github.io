@@ -1,6 +1,6 @@
 ---
 title: Me going lego
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/01/lol-lego-pic-of-me-sleeping/
 tumblr_allenhan_permalink:

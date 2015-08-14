@@ -1,6 +1,6 @@
 ---
 title: Assignment
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/08/first-marked-assignment-in-b-semester-a-not-bad/
 tumblr_allenhan_permalink:

@@ -1,6 +1,6 @@
 ---
 title: tweetdeck
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/04/my-tweetdeck-colours-bg1-cccccc-bg2-ffffff/
 tumblr_allenhan_permalink:

@@ -1,6 +1,6 @@
 ---
 title: the Christmas sun
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/12/the-christmas-sun/
 tumblr_allenhan_permalink:

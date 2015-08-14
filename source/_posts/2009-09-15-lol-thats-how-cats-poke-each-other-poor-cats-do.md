@@ -1,6 +1,6 @@
 ---
 title: Poke
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/09/lol-thats-how-cats-poke-each-other-poor-cats-do/
 tumblr_allenhan_permalink:

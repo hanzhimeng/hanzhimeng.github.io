@@ -1,6 +1,6 @@
 ---
 title: Christmas lunch
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/12/christmas-lunch-taken-with-instagram/
 tumblr_allenhan_permalink:

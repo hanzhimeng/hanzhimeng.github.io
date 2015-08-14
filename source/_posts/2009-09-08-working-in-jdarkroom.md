@@ -1,6 +1,6 @@
 ---
 title: Working in jDarkroom
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/09/working-in-jdarkroom/
 tumblr_allenhan_permalink:

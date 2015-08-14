@@ -1,6 +1,6 @@
 ---
 title: Tencent fail
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/09/fail-tencent-first-lock-up-my-qq-account-for-no/
 tumblr_allenhan_permalink:

@@ -1,6 +1,6 @@
 ---
 title: iphone app
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/08/lol-screenshot-of-my-first-ever-iphone-app-qna/
 tumblr_allenhan_permalink:

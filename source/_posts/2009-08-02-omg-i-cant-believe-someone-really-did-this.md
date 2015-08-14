@@ -1,6 +1,6 @@
 ---
 title: Geek
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/08/omg-i-cant-believe-someone-really-did-this/
 tumblr_allenhan_permalink:

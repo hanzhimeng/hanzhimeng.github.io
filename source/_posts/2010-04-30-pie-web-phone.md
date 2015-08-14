@@ -1,6 +1,6 @@
 ---
 title: Pie Web phone
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/04/pie-web-phone/
 tumblr_allenhan_permalink:

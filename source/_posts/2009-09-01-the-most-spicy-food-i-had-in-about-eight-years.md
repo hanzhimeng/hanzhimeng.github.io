@@ -1,6 +1,6 @@
 ---
 title: Spicy
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/09/the-most-spicy-food-i-had-in-about-eight-years/
 tumblr_allenhan_permalink:

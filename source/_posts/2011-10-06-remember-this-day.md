@@ -1,6 +1,6 @@
 ---
 title: Remember this day
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2011/10/remember-this-day/
 tumblr_allenhan_permalink:

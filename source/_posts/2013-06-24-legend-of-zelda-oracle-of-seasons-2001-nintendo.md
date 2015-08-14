@@ -1,6 +1,6 @@
 ---
 title: 'Legend of Zelda &#8211; Oracle of Seasons &#8211; 2001 Nintendo'
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2013/06/legend-of-zelda-oracle-of-seasons-2001-nintendo/
 categories:

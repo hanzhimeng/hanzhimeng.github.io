@@ -1,6 +1,6 @@
 ---
 title: Multipurpose
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/10/multipurpose/
 tumblr_allenhan_permalink:

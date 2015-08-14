@@ -1,6 +1,6 @@
 ---
 title: Getting old
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/03/just-over-130000km-my-car-is-getting-old/
 tumblr_allenhan_permalink:

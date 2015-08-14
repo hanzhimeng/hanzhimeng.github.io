@@ -1,6 +1,6 @@
 ---
 title: Rediscovering vim
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/08/rediscovering-vim-i-was-doing-my-assignment-which/
 tumblr_allenhan_permalink:

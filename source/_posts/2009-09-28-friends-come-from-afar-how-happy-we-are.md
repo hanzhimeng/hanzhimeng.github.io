@@ -1,6 +1,6 @@
 ---
 title: How happy we are
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/09/friends-come-from-afar-how-happy-we-are/
 tumblr_allenhan_permalink:

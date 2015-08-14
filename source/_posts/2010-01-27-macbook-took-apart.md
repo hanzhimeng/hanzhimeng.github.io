@@ -1,6 +1,6 @@
 ---
 title: Macbook took apart
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/01/macbook-took-apart/
 tumblr_allenhan_permalink:

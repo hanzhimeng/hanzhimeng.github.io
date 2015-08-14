@@ -1,6 +1,6 @@
 ---
 title: lunch Japanese style
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2013/03/lunch-japanese-style/
 tumblr_allenhan_permalink:

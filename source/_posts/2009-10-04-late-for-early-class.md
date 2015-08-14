@@ -1,6 +1,6 @@
 ---
 title: Late for early class
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/10/late-for-early-class/
 tumblr_allenhan_permalink:

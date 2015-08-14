@@ -1,6 +1,6 @@
 ---
 title: Hello, foggy Auckland
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2013/07/hello-foggy-auckland/
 categories:

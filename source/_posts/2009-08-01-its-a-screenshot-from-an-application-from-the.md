@@ -1,6 +1,6 @@
 ---
 title: iPhone
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/08/its-a-screenshot-from-an-application-from-the/
 tumblr_allenhan_permalink:

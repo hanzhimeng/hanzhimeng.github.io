@@ -1,6 +1,6 @@
 ---
 title: A list of commerial/shareware Mac applications I have/willing to pay
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/08/a-list-of-commerial-shareware-mac-applications-i/
 tumblr_allenhan_permalink:

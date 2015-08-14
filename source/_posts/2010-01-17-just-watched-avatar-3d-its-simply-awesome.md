@@ -1,6 +1,6 @@
 ---
 title: Avatar is awesome
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/01/just-watched-avatar-3d-its-simply-awesome/
 tumblr_allenhan_permalink:

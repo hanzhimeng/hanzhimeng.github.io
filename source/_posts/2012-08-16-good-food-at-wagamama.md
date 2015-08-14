@@ -1,6 +1,6 @@
 ---
 title: Good food at wagamama
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2012/08/good-food-at-wagamama/
 tumblr_allenhan_permalink:

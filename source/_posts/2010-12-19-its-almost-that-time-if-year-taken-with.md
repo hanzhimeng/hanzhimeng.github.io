@@ -1,6 +1,6 @@
 ---
 title: It’s almost that time if year
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/12/its-almost-that-time-if-year-taken-with/
 tumblr_allenhan_permalink:

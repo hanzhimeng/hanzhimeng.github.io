@@ -1,6 +1,6 @@
 ---
 title: MY iphone app
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/09/first-local-search-i-made-from-my-iphone-app-qna/
 tumblr_allenhan_permalink:

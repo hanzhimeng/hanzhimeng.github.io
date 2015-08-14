@@ -1,6 +1,6 @@
 ---
 title: The best way to predict the future is to invent it
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/09/the-best-way-to-predict-the-future-is-to-invent/
 tumblr_allenhan_permalink:

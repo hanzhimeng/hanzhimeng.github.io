@@ -1,6 +1,6 @@
 ---
 title: Novotel upside down
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/05/novotel-upside-down/
 tumblr_allenhan_permalink:

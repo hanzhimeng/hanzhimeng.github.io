@@ -1,6 +1,6 @@
 ---
 title: Looong night
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/08/having-a-self-made-cup-of-coffee-more-php-and/
 tumblr_allenhan_permalink:

@@ -1,6 +1,6 @@
 ---
 title: Evolution of my badminton racquets
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2014/04/evolution-of-my-badminton-racquets/
 categories:

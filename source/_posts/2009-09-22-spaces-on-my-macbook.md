@@ -1,6 +1,6 @@
 ---
 title: Spaces on my Macbook
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/09/spaces-on-my-macbook/
 tumblr_allenhan_permalink:

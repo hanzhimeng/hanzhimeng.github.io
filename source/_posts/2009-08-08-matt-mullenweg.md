@@ -1,6 +1,6 @@
 ---
 title: Matt Mullenweg
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/08/matt-mullenweg/
 tumblr_allenhan_permalink:

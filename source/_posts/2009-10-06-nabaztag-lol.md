@@ -1,6 +1,6 @@
 ---
 title: Robo bunny
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/10/nabaztag-lol/
 tumblr_allenhan_permalink:

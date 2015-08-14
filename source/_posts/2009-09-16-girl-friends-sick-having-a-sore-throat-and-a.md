@@ -1,6 +1,6 @@
 ---
 title: No more~
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/09/girl-friends-sick-having-a-sore-throat-and-a/
 tumblr_allenhan_permalink:

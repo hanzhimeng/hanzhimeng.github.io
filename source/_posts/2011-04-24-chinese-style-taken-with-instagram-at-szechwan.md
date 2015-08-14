@@ -1,6 +1,6 @@
 ---
 title: Chinese Style
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2011/04/chinese-style-taken-with-instagram-at-szechwan/
 tumblr_allenhan_permalink:

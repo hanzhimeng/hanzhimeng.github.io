@@ -1,6 +1,6 @@
 ---
 title: “World class” badminton player
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2014/05/world-class-badminton-player/
 categories:

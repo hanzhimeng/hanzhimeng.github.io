@@ -1,6 +1,6 @@
 ---
 title: Car plate
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/09/what-a-nice-plate-for-a-nice-car/
 tumblr_allenhan_permalink:

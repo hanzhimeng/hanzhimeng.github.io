@@ -1,6 +1,6 @@
 ---
 title: Cold morning
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/08/cold-morning/
 tumblr_allenhan_permalink:

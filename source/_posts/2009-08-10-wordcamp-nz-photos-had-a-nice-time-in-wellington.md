@@ -1,6 +1,6 @@
 ---
 title: WordCamp NZ
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/08/wordcamp-nz-photos-had-a-nice-time-in-wellington/
 tumblr_allenhan_permalink:

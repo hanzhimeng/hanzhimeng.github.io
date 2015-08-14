@@ -1,6 +1,6 @@
 ---
 title: Good number plate?
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2012/10/good-number-plate/
 tumblr_allenhan_permalink:

@@ -1,6 +1,6 @@
 ---
 title: 'Wellington &#8211; Part 1'
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/02/wellington-part-1/
 tumblr_allenhan_permalink:

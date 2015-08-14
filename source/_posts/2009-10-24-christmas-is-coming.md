@@ -1,6 +1,6 @@
 ---
 title: Christmas
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/10/christmas-is-coming/
 tumblr_allenhan_permalink:

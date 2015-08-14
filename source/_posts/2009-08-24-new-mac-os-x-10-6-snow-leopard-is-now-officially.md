@@ -1,6 +1,6 @@
 ---
 title: New Mac OS X
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/08/new-mac-os-x-10-6-snow-leopard-is-now-officially/
 tumblr_allenhan_permalink:

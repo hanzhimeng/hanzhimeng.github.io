@@ -1,6 +1,6 @@
 ---
 title: New Zealand
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/04/new-zealand-is-too-beautiful/
 tumblr_allenhan_permalink:

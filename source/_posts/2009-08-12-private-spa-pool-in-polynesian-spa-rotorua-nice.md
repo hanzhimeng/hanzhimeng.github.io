@@ -1,6 +1,6 @@
 ---
 title: Spa
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/08/private-spa-pool-in-polynesian-spa-rotorua-nice/
 tumblr_allenhan_permalink:

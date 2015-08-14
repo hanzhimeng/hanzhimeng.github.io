@@ -1,6 +1,6 @@
 ---
 title: Star wars
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/08/may-the-force-be-with-you/
 tumblr_allenhan_permalink:

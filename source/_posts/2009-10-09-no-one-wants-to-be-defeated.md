@@ -1,6 +1,6 @@
 ---
 title: Beat it
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/10/no-one-wants-to-be-defeated/
 tumblr_allenhan_permalink:

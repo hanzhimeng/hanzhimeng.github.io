@@ -1,6 +1,6 @@
 ---
 title: Good chocolate
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/11/good-chocolate-is-good/
 tumblr_allenhan_permalink:

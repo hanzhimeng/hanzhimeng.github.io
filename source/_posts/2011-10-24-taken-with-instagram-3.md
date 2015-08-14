@@ -1,6 +1,6 @@
 ---
 title: Rice burger
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2011/10/taken-with-instagram-3/
 tumblr_allenhan_permalink:

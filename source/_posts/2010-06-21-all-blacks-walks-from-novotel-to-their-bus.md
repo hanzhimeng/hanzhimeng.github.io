@@ -1,5 +1,5 @@
 ---
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/06/all-blacks-walks-from-novotel-to-their-bus/
 tumblr_allenhan_permalink:

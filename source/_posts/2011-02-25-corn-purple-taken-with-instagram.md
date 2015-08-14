@@ -1,6 +1,6 @@
 ---
 title: corn, purple
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2011/02/corn-purple-taken-with-instagram/
 tumblr_allenhan_permalink:

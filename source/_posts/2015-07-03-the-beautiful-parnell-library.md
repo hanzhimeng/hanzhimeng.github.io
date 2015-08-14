@@ -1,6 +1,6 @@
 ---
 title: The beautiful Parnell library
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2015/07/the-beautiful-parnell-library/
 categories:

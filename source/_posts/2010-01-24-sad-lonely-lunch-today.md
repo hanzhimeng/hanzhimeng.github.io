@@ -1,6 +1,6 @@
 ---
 title: Sad lonely lunch
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/01/sad-lonely-lunch-today/
 tumblr_allenhan_permalink:

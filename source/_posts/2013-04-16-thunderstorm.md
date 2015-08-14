@@ -1,6 +1,6 @@
 ---
 title: Thunderstorm
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2013/04/thunderstorm/
 categories:

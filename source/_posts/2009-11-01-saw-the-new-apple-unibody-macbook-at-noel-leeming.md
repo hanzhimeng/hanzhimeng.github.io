@@ -1,6 +1,6 @@
 ---
 title: Unibody macbook
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/11/saw-the-new-apple-unibody-macbook-at-noel-leeming/
 tumblr_allenhan_permalink:

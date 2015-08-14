@@ -1,6 +1,6 @@
 ---
 title: Spring is here in New Zealand
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/09/spring-is-here-in-new-zealand/
 tumblr_allenhan_permalink:

@@ -1,6 +1,6 @@
 ---
 title: Legends of Zelda
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2013/06/legends-of-zelda/
 categories:

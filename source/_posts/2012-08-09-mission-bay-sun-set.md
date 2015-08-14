@@ -1,6 +1,6 @@
 ---
 title: Mission bay sun set
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2012/08/mission-bay-sun-set/
 tumblr_allenhan_permalink:

@@ -1,6 +1,6 @@
 ---
 title: Internet fail
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/09/no-body-knows-how-happy-i-am-when-i-open-this-page/
 tumblr_allenhan_permalink:

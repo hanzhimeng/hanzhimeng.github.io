@@ -1,6 +1,6 @@
 ---
 title: A list of Paid iPhone apps I have/willing to pay
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/09/a-list-of-paid-iphone-apps-i-have-willing-to-pay/
 tumblr_allenhan_permalink:

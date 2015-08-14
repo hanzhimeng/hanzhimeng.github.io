@@ -1,6 +1,6 @@
 ---
 title: Going Home
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/01/the-trip-back-home-was-pretty-good/
 tumblr_allenhan_permalink:

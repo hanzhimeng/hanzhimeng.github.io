@@ -1,6 +1,6 @@
 ---
 title: Blogging Platforms
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2012/04/blogging-platforms/
 tumblr_allenhan_permalink:

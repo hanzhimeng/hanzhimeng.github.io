@@ -1,6 +1,6 @@
 ---
 title: Reeder
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/04/reeder-is-pretty-awesome/
 tumblr_allenhan_permalink:

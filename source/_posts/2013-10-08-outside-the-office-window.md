@@ -1,6 +1,6 @@
 ---
 title: Outside the office window
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2013/10/outside-the-office-window/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 'Vim is *THE EDITOR*'
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/08/vim-is-the-editor-nothing-else-even-come-close/
 tumblr_allenhan_permalink:

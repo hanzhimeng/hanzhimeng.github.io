@@ -1,6 +1,6 @@
 ---
 title: Mojo
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/08/it-feels-good-having-mojo-coffee-in-the-morning/
 tumblr_allenhan_permalink:

@@ -1,6 +1,6 @@
 ---
 title: xserve without drives
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2012/04/woo-xserve-without-drives/
 tumblr_allenhan_permalink:

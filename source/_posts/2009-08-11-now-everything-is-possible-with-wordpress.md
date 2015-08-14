@@ -1,6 +1,6 @@
 ---
 title: Now everything is possible with WordPress
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/08/now-everything-is-possible-with-wordpress/
 tumblr_allenhan_permalink:

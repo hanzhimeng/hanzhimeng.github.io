@@ -1,6 +1,6 @@
 ---
 title: A foggy morning
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/04/a-foggy-morning-on-my-way-to-town/
 tumblr_allenhan_permalink:

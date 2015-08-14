@@ -1,6 +1,6 @@
 ---
 title: Get a life
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/08/more-than-8000-points-in-paper-toss-get-a-life/
 tumblr_allenhan_permalink:

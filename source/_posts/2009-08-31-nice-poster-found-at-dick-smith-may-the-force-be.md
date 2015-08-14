@@ -1,6 +1,6 @@
 ---
 title: Geeky poster
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2009/08/nice-poster-found-at-dick-smith-may-the-force-be/
 tumblr_allenhan_permalink:

@@ -1,6 +1,6 @@
 ---
 title: Silence is gold
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2010/06/silence-is-gold/
 tumblr_allenhan_permalink:

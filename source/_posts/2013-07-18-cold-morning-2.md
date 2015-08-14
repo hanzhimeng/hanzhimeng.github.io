@@ -1,6 +1,6 @@
 ---
 title: Cold morning
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2013/07/cold-morning-2/
 categories:

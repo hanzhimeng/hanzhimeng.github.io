@@ -1,6 +1,6 @@
 ---
 title: Japanese food for lunch
-author: hanzhimeng
+author: Allen Han
 layout: post
 permalink: /2013/07/japanese-food-for-lunch/
 categories:
