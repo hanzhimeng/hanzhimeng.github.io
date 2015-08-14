@@ -5,8 +5,8 @@ date: 2015-08-14 12:05:01 +1200
 comments: true
 categories: me
 ---
-As of today, I am offcially __31 years old__, my second child was born **5 days ago**, which adds another layer of complication to my life. Just when I am very comfortable around my first daughter(don't judge me), the second poped out. This is life, the new born child is keeping me up all night, well not all night, but I have to get up 2-3 times during the sleep to feed her. I am pretty excited at the same time. 
+As of today, I am offcially __31 years old__, my second child was born **5 days ago**, which adds another layer of complication to my life. Just when I am very comfortable around my first daughter(don't judge me), the second poped out. This is life, the new born child is keeping me up all night, well not all night, but I have to get up 2-3 times during the sleep to feed her. I am pretty excited at the same time.
 
-As a silly tradition, I am uploading a photo of myself on here..
+As a silly tradition, I am uploading a photo of myself here..
 
 {% img left /images/uploads/2015/08/me.jpg %}
