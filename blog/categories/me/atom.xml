@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Me | Allen.Han]]></title>
+  <link href="http://allenhan.com/blog/categories/me/atom.xml" rel="self"/>
+  <link href="http://allenhan.com/"/>
+  <updated>2015-08-23T00:58:01+12:00</updated>
+  <id>http://allenhan.com/</id>
+  <author>
+    <name><![CDATA[Allen Han]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[31st Birthday]]></title>
+    <link href="http://allenhan.com/blog/31st-birthday/"/>
+    <updated>2015-08-14T12:05:01+12:00</updated>
+    <id>http://allenhan.com/blog/31st-birthday</id>
+    <content type="html"><![CDATA[<p>As of today, I am offcially <strong>31 years old</strong>, my second child was born <strong>5 days ago</strong>, which adds another layer of complication to my life. Just when I am very comfortable around my first daughter(don&rsquo;t judge me), the second poped out. This is life, the new born child is keeping me up all night, well not all night, but I have to get up 2-3 times during the sleep to feed her. I am pretty excited at the same time.</p>
+
+<p>As a silly tradition, I am uploading a photo of myself here..</p>
+
+<p><img class="left" src="/images/uploads/2015/08/me.jpg"></p>
+]]></content>
+  </entry>
+  
+</feed>
