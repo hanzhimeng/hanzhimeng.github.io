@@ -645,16 +645,19 @@
     <lastmod>2009-07-30T00:00:00+12:00</lastmod>
   </url>
   <url>
+    <loc>http://allenhan.com/blog/</loc>
+  </url>
+  <url>
     <loc>http://allenhan.com/archives/</loc>
+  </url>
+  <url>
+    <loc>http://allenhan.com/</loc>
   </url>
   <url>
     <loc>http://allenhan.com/blog/archives/</loc>
   </url>
   <url>
-    <loc>http://allenhan.com/blog/</loc>
-  </url>
-  <url>
-    <loc>http://allenhan.com/</loc>
+    <loc>http://allenhan.com/contact/</loc>
   </url>
   <url>
     <loc>http://allenhan.com/blog/categories/uncategorized/</loc>
@@ -670,5 +673,53 @@
   </url>
   <url>
     <loc>http://allenhan.com/blog/categories/sports/</loc>
+  </url>
+  <url>
+    <loc>http://allenhan.com/posts/2/</loc>
+  </url>
+  <url>
+    <loc>http://allenhan.com/posts/3/</loc>
+  </url>
+  <url>
+    <loc>http://allenhan.com/posts/4/</loc>
+  </url>
+  <url>
+    <loc>http://allenhan.com/posts/5/</loc>
+  </url>
+  <url>
+    <loc>http://allenhan.com/posts/6/</loc>
+  </url>
+  <url>
+    <loc>http://allenhan.com/posts/7/</loc>
+  </url>
+  <url>
+    <loc>http://allenhan.com/posts/8/</loc>
+  </url>
+  <url>
+    <loc>http://allenhan.com/posts/9/</loc>
+  </url>
+  <url>
+    <loc>http://allenhan.com/posts/10/</loc>
+  </url>
+  <url>
+    <loc>http://allenhan.com/posts/11/</loc>
+  </url>
+  <url>
+    <loc>http://allenhan.com/posts/12/</loc>
+  </url>
+  <url>
+    <loc>http://allenhan.com/posts/13/</loc>
+  </url>
+  <url>
+    <loc>http://allenhan.com/posts/14/</loc>
+  </url>
+  <url>
+    <loc>http://allenhan.com/posts/15/</loc>
+  </url>
+  <url>
+    <loc>http://allenhan.com/posts/16/</loc>
+  </url>
+  <url>
+    <loc>http://allenhan.com/posts/17/</loc>
   </url>
 </urlset>
