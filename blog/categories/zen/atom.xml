@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: zen | Allen.Han]]></title>
+  <title><![CDATA[Category: Zen | Allen.Han]]></title>
   <link href="http://allenhan.com/blog/categories/zen/atom.xml" rel="self"/>
   <link href="http://allenhan.com/"/>
-  <updated>2015-08-24T15:31:11+12:00</updated>
+  <updated>2015-08-24T15:53:37+12:00</updated>
   <id>http://allenhan.com/</id>
   <author>
     <name><![CDATA[Allen Han]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Hello Github pages]]></title>
+    <title type="html"><![CDATA[Hello Github Pages]]></title>
     <link href="http://allenhan.com/blog/hello-github-pages/"/>
     <updated>2015-08-05T20:55:08+12:00</updated>
     <id>http://allenhan.com/blog/hello-github-pages</id>

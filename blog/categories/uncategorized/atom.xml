@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: uncategorized | Allen.Han]]></title>
+  <title><![CDATA[Category: Uncategorized | Allen.Han]]></title>
   <link href="http://allenhan.com/blog/categories/uncategorized/atom.xml" rel="self"/>
   <link href="http://allenhan.com/"/>
-  <updated>2015-08-24T15:31:11+12:00</updated>
+  <updated>2015-08-24T15:53:37+12:00</updated>
   <id>http://allenhan.com/</id>
   <author>
     <name><![CDATA[Allen Han]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[The beautiful Parnell library]]></title>
+    <title type="html"><![CDATA[The Beautiful Parnell Library]]></title>
     <link href="http://allenhan.com/2015/07/the-beautiful-parnell-library/"/>
     <updated>2015-07-03T00:00:00+12:00</updated>
     <id>http://allenhan.com/2015/07/the-beautiful-parnell-library</id>
@@ -23,7 +23,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[“World class” badminton player]]></title>
+    <title type="html"><![CDATA[“World Class” Badminton Player]]></title>
     <link href="http://allenhan.com/2014/05/world-class-badminton-player/"/>
     <updated>2014-05-27T00:00:00+12:00</updated>
     <id>http://allenhan.com/2014/05/world-class-badminton-player</id>
@@ -32,7 +32,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Evolution of my badminton racquets]]></title>
+    <title type="html"><![CDATA[Evolution of My Badminton Racquets]]></title>
     <link href="http://allenhan.com/2014/04/evolution-of-my-badminton-racquets/"/>
     <updated>2014-04-08T00:00:00+12:00</updated>
     <id>http://allenhan.com/2014/04/evolution-of-my-badminton-racquets</id>
@@ -58,7 +58,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Outside the office window]]></title>
+    <title type="html"><![CDATA[Outside the Office Window]]></title>
     <link href="http://allenhan.com/2013/10/outside-the-office-window/"/>
     <updated>2013-10-08T00:00:00+13:00</updated>
     <id>http://allenhan.com/2013/10/outside-the-office-window</id>

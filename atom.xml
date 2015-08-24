@@ -4,12 +4,13 @@
   <title><![CDATA[Allen.Han]]></title>
   <link href="http://allenhan.com/atom.xml" rel="self"/>
   <link href="http://allenhan.com/"/>
-  <updated>2015-08-24T15:31:11+12:00</updated>
+  <updated>2015-08-24T15:53:37+12:00</updated>
   <id>http://allenhan.com/</id>
   <author>
     <name><![CDATA[Allen Han]]></name>
     
   </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
@@ -26,7 +27,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[31st birthday]]></title>
+    <title type="html"><![CDATA[31st Birthday]]></title>
     <link href="http://allenhan.com/blog/31st-birthday/"/>
     <updated>2015-08-14T12:05:01+12:00</updated>
     <id>http://allenhan.com/blog/31st-birthday</id>
@@ -39,7 +40,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Hello Github pages]]></title>
+    <title type="html"><![CDATA[Hello Github Pages]]></title>
     <link href="http://allenhan.com/blog/hello-github-pages/"/>
     <updated>2015-08-05T20:55:08+12:00</updated>
     <id>http://allenhan.com/blog/hello-github-pages</id>
@@ -55,7 +56,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[The beautiful Parnell library]]></title>
+    <title type="html"><![CDATA[The Beautiful Parnell Library]]></title>
     <link href="http://allenhan.com/2015/07/the-beautiful-parnell-library/"/>
     <updated>2015-07-03T00:00:00+12:00</updated>
     <id>http://allenhan.com/2015/07/the-beautiful-parnell-library</id>
@@ -64,7 +65,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[“World class” badminton player]]></title>
+    <title type="html"><![CDATA[“World Class” Badminton Player]]></title>
     <link href="http://allenhan.com/2014/05/world-class-badminton-player/"/>
     <updated>2014-05-27T00:00:00+12:00</updated>
     <id>http://allenhan.com/2014/05/world-class-badminton-player</id>
@@ -73,7 +74,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Evolution of my badminton racquets]]></title>
+    <title type="html"><![CDATA[Evolution of My Badminton Racquets]]></title>
     <link href="http://allenhan.com/2014/04/evolution-of-my-badminton-racquets/"/>
     <updated>2014-04-08T00:00:00+12:00</updated>
     <id>http://allenhan.com/2014/04/evolution-of-my-badminton-racquets</id>
@@ -99,7 +100,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Outside the office window]]></title>
+    <title type="html"><![CDATA[Outside the Office Window]]></title>
     <link href="http://allenhan.com/2013/10/outside-the-office-window/"/>
     <updated>2013-10-08T00:00:00+13:00</updated>
     <id>http://allenhan.com/2013/10/outside-the-office-window</id>
@@ -124,7 +125,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Entrance of a rental truck]]></title>
+    <title type="html"><![CDATA[Entrance of a Rental Truck]]></title>
     <link href="http://allenhan.com/2013/08/entrance-of-a-rental-truck/"/>
     <updated>2013-08-31T00:00:00+12:00</updated>
     <id>http://allenhan.com/2013/08/entrance-of-a-rental-truck</id>
@@ -133,7 +134,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Hello, foggy Auckland]]></title>
+    <title type="html"><![CDATA[Hello, Foggy Auckland]]></title>
     <link href="http://allenhan.com/2013/07/hello-foggy-auckland/"/>
     <updated>2013-07-30T00:00:00+12:00</updated>
     <id>http://allenhan.com/2013/07/hello-foggy-auckland</id>
@@ -142,7 +143,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Cold morning]]></title>
+    <title type="html"><![CDATA[Cold Morning]]></title>
     <link href="http://allenhan.com/2013/07/cold-morning-2/"/>
     <updated>2013-07-18T00:00:00+12:00</updated>
     <id>http://allenhan.com/2013/07/cold-morning-2</id>
@@ -153,7 +154,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[What kind of crazy weather is this?]]></title>
+    <title type="html"><![CDATA[What Kind of Crazy Weather Is This?]]></title>
     <link href="http://allenhan.com/2013/07/what-kind-of-crazy-weather-is-this/"/>
     <updated>2013-07-12T00:00:00+12:00</updated>
     <id>http://allenhan.com/2013/07/what-kind-of-crazy-weather-is-this</id>
@@ -168,7 +169,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Japanese food for lunch]]></title>
+    <title type="html"><![CDATA[Japanese Food for Lunch]]></title>
     <link href="http://allenhan.com/2013/07/japanese-food-for-lunch/"/>
     <updated>2013-07-04T00:00:00+12:00</updated>
     <id>http://allenhan.com/2013/07/japanese-food-for-lunch</id>
@@ -180,7 +181,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Uh oh..]]></title>
+    <title type="html"><![CDATA[Uh Oh..]]></title>
     <link href="http://allenhan.com/2013/06/uh-oh/"/>
     <updated>2013-06-28T00:00:00+12:00</updated>
     <id>http://allenhan.com/2013/06/uh-oh</id>
@@ -223,7 +224,7 @@ The game giant has released 18(or 19) Zelda game so far, and there are two more 
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[First time over 81 wpm]]></title>
+    <title type="html"><![CDATA[First Time Over 81 Wpm]]></title>
     <link href="http://allenhan.com/2013/05/first-time-over-81-wpm/"/>
     <updated>2013-05-23T00:00:00+12:00</updated>
     <id>http://allenhan.com/2013/05/first-time-over-81-wpm</id>
@@ -234,7 +235,7 @@ The game giant has released 18(or 19) Zelda game so far, and there are two more 
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Macbook pro battery swelled up for nothing &#8211; Part 2]]></title>
+    <title type="html"><![CDATA[Macbook Pro Battery Swelled Up for Nothing &#8211; Part 2]]></title>
     <link href="http://allenhan.com/2013/05/macbook-pro-battery-swelled-up-for-nothing-part-2/"/>
     <updated>2013-05-02T00:00:00+12:00</updated>
     <id>http://allenhan.com/2013/05/macbook-pro-battery-swelled-up-for-nothing-part-2</id>
@@ -245,7 +246,7 @@ The game giant has released 18(or 19) Zelda game so far, and there are two more 
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Food from home]]></title>
+    <title type="html"><![CDATA[Food From Home]]></title>
     <link href="http://allenhan.com/2013/05/food-from-home/"/>
     <updated>2013-05-02T00:00:00+12:00</updated>
     <id>http://allenhan.com/2013/05/food-from-home</id>
@@ -258,7 +259,7 @@ The game giant has released 18(or 19) Zelda game so far, and there are two more 
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Macbook pro battery swelled up for nothing]]></title>
+    <title type="html"><![CDATA[Macbook Pro Battery Swelled Up for Nothing]]></title>
     <link href="http://allenhan.com/2013/05/macbook-pro-battery-swelled-up-for-nothing/"/>
     <updated>2013-05-01T00:00:00+12:00</updated>
     <id>http://allenhan.com/2013/05/macbook-pro-battery-swelled-up-for-nothing</id>
