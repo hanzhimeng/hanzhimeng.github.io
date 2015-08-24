@@ -6,6 +6,5 @@ comments: true
 sharing: true
 footer: true
 ---
-#Contact#
 
 If you wanted to talk to me flick me a email at ___hanzhimeng__[at]__gmail___.
