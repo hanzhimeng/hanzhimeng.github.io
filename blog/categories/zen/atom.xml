@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Zen | Allen.Han]]></title>
+  <link href="http://allenhan.com/blog/categories/zen/atom.xml" rel="self"/>
+  <link href="http://allenhan.com/"/>
+  <updated>2015-09-20T16:21:28+12:00</updated>
+  <id>http://allenhan.com/</id>
+  <author>
+    <name><![CDATA[Allen Han]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Github Pages]]></title>
+    <link href="http://allenhan.com/blog/hello-github-pages/"/>
+    <updated>2015-08-05T20:55:08+12:00</updated>
+    <id>http://allenhan.com/blog/hello-github-pages</id>
+    <content type="html"><![CDATA[<p>I have been think about moving my blog to somewhere else other than the self-hosted <a href="http://wordpress.org">Wordpress</a> site, it&rsquo;s a great blogging platform and site building tool, but it&rsquo;s been causing problems on my server, including me not know that the theme i used as a backdoor in it.</p>
+
+<h3>This is hosted on Github, best service, and it&rsquo;s Free!</h3>
+
+<p>Yay.</p>
+
+<p>I will blog more about tech stuff or my favourite sports here.
+<img class="left" src="/images/badminton.jpg" width="350" height="350" title="&lsquo;Badminton&rsquo; &lsquo;Badminton&rsquo;" ></p>
+]]></content>
+  </entry>
+  
+</feed>
